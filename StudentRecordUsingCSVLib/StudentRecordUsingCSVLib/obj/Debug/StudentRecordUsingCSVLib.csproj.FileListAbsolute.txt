@@ -1,0 +1,18 @@
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.pdb
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.exe
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.pdb
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.StudentRecordKeepingUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.pdb
+F:\maloncho backup\Ddrive\C# COURSE\My Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\My Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.exe
+F:\maloncho backup\Ddrive\C# COURSE\My Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.pdb

@@ -1,0 +1,34 @@
+C:\Users\acer\Desktop\file operation app\file operation app\obj\Debug\file_operation_app.Form1.resources
+C:\Users\acer\Desktop\file operation app\file operation app\obj\Debug\file_operation_app.Properties.Resources.resources
+C:\Users\acer\Desktop\file operation app\file operation app\obj\Debug\file operation app.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\file operation app\file operation app\bin\Debug\file operation app.exe.config
+C:\Users\acer\Desktop\file operation app\file operation app\obj\Debug\file operation app.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\file operation app\file operation app\bin\Debug\file operation app.exe
+C:\Users\acer\Desktop\file operation app\file operation app\bin\Debug\file operation app.pdb
+C:\Users\acer\Desktop\file operation app\file operation app\bin\Debug\CSVLib.dll
+C:\Users\acer\Desktop\file operation app\file operation app\obj\Debug\file operation app.exe
+C:\Users\acer\Desktop\file operation app\file operation app\obj\Debug\file operation app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\bin\Debug\file operation app.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\obj\Debug\file operation app.exe
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\obj\Debug\file operation app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\bin\Debug\file operation app.exe
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\bin\Debug\file operation app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\obj\Debug\file operation app.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\obj\Debug\file_operation_app.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\obj\Debug\file operation app.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\file operation app\file operation app\file operation app\obj\Debug\file_operation_app.searchButton.resources
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\file operation app\file operation app\file operation app\bin\Debug\file operation app.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\file operation app\file operation app\file operation app\obj\Debug\file operation app.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\file operation app\file operation app\file operation app\obj\Debug\file operation app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\file operation app\file operation app\file operation app\bin\Debug\file operation app.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\file operation app\file operation app\file operation app\obj\Debug\file operation app.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\file operation app\file operation app\file operation app\obj\Debug\file operation app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\bin\Debug\file operation app.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\obj\Debug\file operation app.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\obj\Debug\file operation app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\bin\Debug\file operation app.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\bin\Debug\file operation app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\obj\Debug\file operation app.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\obj\Debug\file_operation_app.searchButton.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\obj\Debug\file_operation_app.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\file operation app\file operation app\file operation app\obj\Debug\file operation app.csproj.GenerateResource.Cache

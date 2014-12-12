@@ -1,0 +1,18 @@
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.pdb
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.pdb
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.FileReadWriteUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\My Project\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.pdb
+C:\Users\Nadim\Desktop\Basis ALL project\FileOperationUsingCSVFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe.config
+C:\Users\Nadim\Desktop\Basis ALL project\FileOperationUsingCSVFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.exe
+C:\Users\Nadim\Desktop\Basis ALL project\FileOperationUsingCSVFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.pdb

@@ -1,0 +1,20 @@
+C:\Users\acer\Desktop\file app\file app\bin\Debug\file app.exe
+C:\Users\acer\Desktop\file app\file app\bin\Debug\file app.pdb
+C:\Users\acer\Desktop\file app\file app\obj\Debug\file app.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\file app\file app\obj\Debug\file_app.Form1.resources
+C:\Users\acer\Desktop\file app\file app\obj\Debug\file_app.Properties.Resources.resources
+C:\Users\acer\Desktop\file app\file app\obj\Debug\file app.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\file app\file app\obj\Debug\file app.exe
+C:\Users\acer\Desktop\file app\file app\obj\Debug\file app.pdb
+I:\Ayesha49th batch\file app\file app\obj\Debug\file app.exe
+I:\Ayesha49th batch\file app\file app\obj\Debug\file app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder\file app\file app\obj\Debug\file app.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder\file app\file app\obj\Debug\file app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\file app\file app\obj\Debug\file app.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\file app\file app\obj\Debug\file app.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\file app\file app\obj\Debug\file app.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\file app\file app\obj\Debug\file_app.Form1.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\file app\file app\obj\Debug\file_app.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\file app\file app\obj\Debug\file app.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\file app\file app\bin\Debug\file app.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\file app\file app\bin\Debug\file app.pdb
